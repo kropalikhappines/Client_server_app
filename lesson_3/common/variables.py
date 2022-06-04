@@ -1,0 +1,9 @@
+ACTION = 'action'
+PRESENCE = 'presence'
+TIME = 'time'
+USER = 'user'
+ACCOUNT_NAME = 'account_name'
+RESPONSE = 'response'
+ERROR = 'error'
+DEFAULT_PORT = 10001
+DEFAULT_ADDRESS = '127.0.0.1'
